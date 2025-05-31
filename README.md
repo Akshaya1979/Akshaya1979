@@ -7,7 +7,7 @@
 
 ---
 
-## 📫 Contact Me
+## 📫 Contact me
 
 📧 Email: [akshayareddy1943@gmail.com](mailto:akshayareddy1943@gmail.com)
 
