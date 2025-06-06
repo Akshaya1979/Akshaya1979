@@ -1,4 +1,4 @@
-# 👋 Hi , I'm Akshaya Reddy
+# 👋 Hi , I'm Akshaya Reddy    
 
 🎓 I'm a CSE (AI & ML) student at **SRM Institute of Science and Technology, Kattankulathur Campus**, Chennai.  
 🚀 Currently exploring **Artificial Intelligence**, **Machine Learning**, **Cloud Computing**, and **Data Engineering**.  
